@@ -99,3 +99,7 @@ ENV/
 # Editors
 .idea
 .vscode
+
+# scripts
+user_*.py
+
